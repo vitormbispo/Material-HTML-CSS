@@ -23,3 +23,14 @@ __
   - Introdução ao CSS
   - Tipos de estilização (inline, interna e externa)
   - Tipos de seletores básicos (elementos, classes e identificadores)
+___
+## Aula 5:
+  - Estilização da tela inicial
+___
+## Aula 6:
+  - Estilização das telas das receitas
+  - Finalização do projeto
+___
+## Aula 7:
+  - Finalização do curso
+  - Correções e pequenas modificações finais
